@@ -1,1 +1,8 @@
+bash
+git init
+git add 
+git commit -m "Initial commit of app"
+git branch -M main
+https://github.com/monish105991-ux/your-app-repo.git
+git push -u origin main
 
