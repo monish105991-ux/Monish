@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main()
 {
-float V,I,R1,R2,R3;
+float R1,R2,R3;
+float V,R,I
 printf(“Enter R1:”);
 scanf(“%f”,&R1);
 printf(“Enter R2:”);
